@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "actionpack", ">= 4.2", "< 5.2"
-  s.add_dependency "actionview", ">= 4.2", "< 5.2"
+  s.add_dependency "actionview", ">= 4.2", "< 6.2"
   s.add_dependency "activerecord", ">= 4.2", "< 5.2"
 
   s.add_dependency "autoprefixer-rails", ">= 6.0"
